@@ -4,7 +4,7 @@
 
   <div>    
   <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/a8cba8d6-df4f-423b-8d29-8c3245852756" />
-    aspen or atlas
+    aspen or kat
 
    they/he ૮• ᴥ •ა
   </div>
